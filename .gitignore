@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Demo output folders (generated at runtime)
+Demo_*/
+
+# OS
+.DS_Store
+Thumbs.db
